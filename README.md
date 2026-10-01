@@ -2,7 +2,7 @@
 
 Práctica final del curso **[Claude Code .NET](https://www.trainingit.es/producto/claude-code-net/)** de TrainingIT.
 
-📄 Tienes este mismo enunciado en Word para descargar: [`enunciado-practica-final.docx`](enunciado-practica-final.docx).
+📄 Tienes este mismo enunciado en Word para descargar: [`enunciado-practica-final.docx`](https://github.com/Claude-Code-NET-Trit/practica-final-alta-de-dispositivos/raw/main/enunciado-practica-final.docx).
 
 ## Objetivo
 
